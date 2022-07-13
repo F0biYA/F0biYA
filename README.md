@@ -1,15 +1,31 @@
 ### 
 <h1 align="center">Привет, я Александр! 👋 </h1>
+ :man_technologist: About Me :
 <h3 align="center">Я - начинающий frontend разработчик. Открыт любым предложениям по сострудничеству. </h3>
 
-<h4 align='center'> 🔭Сейчас я дорабатываю дипломный проект Yandex Practicum: Movies - Explorer. С фронт и бек частями. </h4>
+<h4 align='center'> 🔭 Сейчас я дорабатываю дипломный проект Yandex Practicum: Movies - Explorer. С фронт и бек частями. </h4>
 
 <h4 align="center"> 📫 Мои контакты: email: fobiya1982@yandex.ru   tel: +7-925-073-86-04 </h4>
 
-<img height=30px src= "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg">
+- - -
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ### :hammer_and_wrench: Languages and Tools : 
+ <div  align=center>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="70" height="70"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="70" height="70"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="MongoDB" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="70" height="70"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Github" alt="Github" width="70" height="70"/>&nbsp;
+</div>
 
+- - - 
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F0biYA&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **F0biYA/F0biYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
