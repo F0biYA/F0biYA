@@ -6,7 +6,7 @@
 
 <h4 align="center"> 📫 Мои контакты: email: fobiya1982@yandex.ru   tel: +7-925-073-86-04 </h4>
 
-<img src= "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg">
+<img height=30px src= "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
