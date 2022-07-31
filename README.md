@@ -3,7 +3,7 @@
  :man_technologist: About Me :
 <h3 align="center">Я - начинающий frontend разработчик. Открыт любым предложениям по сотрудничеству и проектам. </h3>
 
-<h4 align='center'> 🔭 Сейчас я дорабатываю дипломный проект Yandex Practicum: Movies - Explorer. С фронт и бек частями. </h4>
+<h4 align='center'> 🔭 Мой дипломный проект Yandex Practicum: Movies - Explorer. С фронт и бек частями. https://putilin.student.nomoredomains.xyz/ </h4>
 
 <h4 align="center"> 📫 Мои контакты: email: fobiya1982@yandex.ru   tel: +7-925-073-86-04 </h4>
 
