@@ -6,9 +6,10 @@
 <h4 align='center'> 🔭 Мой текущий проект https://f0biya.github.io/Just-Loft/</h4>
 
 
-<h4> 📫 Мои контакты: 
-email: fobiya1982@yandex.ru   
- tel: +7-925-073-86-04 </h4>
+<h4> 🏠 Мои контакты: </h4>
+ - 📫   email: fobiya1982@yandex.ru   
+ - ☎️   tel: +7-925-073-86-04 
+ - 🛰️   telegram: @AlexandrPutilin
 
 - - -
 
