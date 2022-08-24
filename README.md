@@ -7,9 +7,9 @@
 
 
 <h4> 🏠 Мои контакты: </h4>
- - 📫   email: fobiya1982@yandex.ru ;  
- - ☎️   tel: +7-925-073-86-04 ;
- - 🛰️   telegram: @AlexandrPutilin ;
+ - 📫:   email: fobiya1982@yandex.ru   
+ - ☎️:   tel: +7-925-073-86-04 
+ - 🛰️:   telegram: @AlexandrPutilin 
 
 - - -
 
